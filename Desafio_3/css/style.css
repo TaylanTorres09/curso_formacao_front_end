@@ -1,7 +1,14 @@
 #box-model {
-    margin: 0 auto;
-    padding: 10px;
-    width: 120px;
+    margin: 0 auto 50px;
+    padding: 5px;
+    width: 150px;
     border: 2px solid #222121;
+    border-radius: 10px;
+    background-color: rgb(78, 82, 82);
+}
+
+.title {
+    text-align: center;
+    background-color: rgb(59, 252, 252);
     border-radius: 10px;
 }
