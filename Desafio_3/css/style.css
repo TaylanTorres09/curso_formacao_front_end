@@ -1,0 +1,7 @@
+#box-model {
+    margin: 0 auto;
+    padding: 10px;
+    width: 120px;
+    border: 2px solid #222121;
+    border-radius: 10px;
+}
