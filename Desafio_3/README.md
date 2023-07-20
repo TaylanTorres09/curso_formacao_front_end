@@ -7,3 +7,6 @@
 - Mudar a cor de fundo do texto.
 - O elemento do box model deve ter um id, o texto uma classe.
 - Adicionar uma regra chamada outline, com o mesmo valor da propriedade border, apenas com a cor diferente.
+
+## Resultado
+![Result](../README_IMG/result.png)
