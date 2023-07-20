@@ -1,4 +1,5 @@
-#box-model {
+#box-model,
+.box-outiline {
     margin: 0 auto 50px;
     padding: 5px;
     width: 150px;
@@ -11,4 +12,8 @@
     text-align: center;
     background-color: rgb(59, 252, 252);
     border-radius: 10px;
+}
+
+.box-outiline {
+    outline: #120b69 solid 10px;
 }
